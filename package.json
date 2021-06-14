@@ -1,0 +1,26 @@
+{
+  "name": "js-jest",
+  "version": "1.0.0",
+  "description": "Testing de JavaScript con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioArango/javascript-jest.git"
+  },
+  "author": "Mario Arango",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarioArango/javascript-jest/issues"
+  },
+  "homepage": "https://github.com/MarioArango/javascript-jest#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  },
+  "dependencies": {
+    "babel-jest": "^27.0.2",
+    "babel-polyfill": "^6.26.0"
+  }
+}
